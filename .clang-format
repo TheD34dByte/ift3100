@@ -1,0 +1,9 @@
+BasedOnStyle: Google
+IndentWidth: 4
+ColumnLimit: 130
+AccessModifierOffset: -1
+AllowShortFunctionsOnASingleLine: None
+SortIncludes: true
+IncludeBlocks: Regroup
+SpacesBeforeTrailingComments: 1
+PointerAlignment: Left

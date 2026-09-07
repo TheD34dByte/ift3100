@@ -1,0 +1,9 @@
+{
+    "devDependencies": {
+        "prettier": "^3.9.6"
+    },
+    "scripts": {
+        "format:json": "prettier --write \"**/*.json\"",
+        "lint:json": "prettier --check \"**/*.json\""
+    }
+}
